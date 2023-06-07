@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "name": "Name",
+      "type": "string"
+    },
+    {
+      "name": "Age",
+      "type": "int"
+    }
+  ],
+  "name": "Customer",
+  "namespace": "kafka.ir.poc",
+  "type": "record"
+}
